@@ -23,7 +23,7 @@ public class SecondLargestNumber {
 			 System.out.println(val);
 			 
 			 //print first largest number
-			 Integer integer = val.get(val.size()-2);
+		     Integer integer = val.get(val.size()-2);
 			//-1=> last value
 			System.out.println(integer);
 			 

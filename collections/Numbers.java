@@ -6,6 +6,7 @@ import java.util.List;
 public class Numbers {
 	public static void main(String[]args)
 	{
+		
 	List<Integer> number=new LinkedList<Integer>();
 		number.add(10);
 		number.add(50);
